@@ -1,0 +1,26 @@
+id: IEC336ECF
+default_language: bo
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-15 07:42:34.569321+00:00
+last_modified: 2022-12-15 07:42:34.569332+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-061-002
+  eft-text-version: 1.18 2019
+  title: Toh_182-The_Perfection_of_Generosity-v2
+bases:
+  A888:
+    source_metadata: null
+    order: 1
+    base_file: A888.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
